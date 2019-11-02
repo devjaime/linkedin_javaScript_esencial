@@ -1,6 +1,6 @@
 # JavaScript esencial: Curso Linkenin
 
-![Certificado ](https://github.com/devjaime/linkedin_javascript_hololens/blob/master/certificado/certificado.png)
+![Certificado ](https://github.com/devjaime/linkedin_javaScript_esencial/blob/master/certificado/certificado.png)
 ## Contenidos
 
 ### 1.- Conociendo JavaScript
